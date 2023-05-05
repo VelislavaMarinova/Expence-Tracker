@@ -18,6 +18,7 @@ http://localhost:3000/
 ---
 
 Expence Tracker is an app where you can add new expences, filter them by year and see all expences for the selected year. 
+
 ![Expence Tracker](src/assets/intro-expence-tracker.png)
 
 
